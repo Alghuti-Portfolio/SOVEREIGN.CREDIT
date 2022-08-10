@@ -6,5 +6,12 @@ DAOs “decentralized autonomous organization“ empower independent entities to
 
 The following blog post presents a nuanced perspective on DAOs, starting with an educational primer on the basics of DAOs before discussing the benefits and tradeoffs every DAO must optimize around if they are to achieve sustainable success.
 
-Credit - ChainLink
 
+### Overview 
+
+To understand the benefits and tradeoffs of DAOs, it’s important first to define what a DAO is, look at various types of DAOs, outline their responsibilities, and lay out the different DAO tooling and governance structures that exist today.
+
+***What Is a DAO?***
+DAO stands for “decentralized autonomous organization.” The general purpose of a DAO is to collectively make decisions about something in a more distributed, transparent, and trust-minimized manner than is possible in traditional organizations. In a simple sense, a DAO is a new type of human organizational structure that allows people to work towards a common goal based on a common understanding that all participants are able to independently verify how the organization functions.
+
+One of the unique aspects of DAOs is their use of blockchain-based smart contracts, which codify some or all of the processes by which they execute decisions and assign ownership. The incorporation of smart contracts is foundational to their innovation because it allows the rules governing how the DAO functions to be made fully transparent to members and highly resistant to tampering by members or external entities. This is because code running on blockchains (i.e. smart contracts) is publicly auditable and secured by a decentralized network of nodes.
