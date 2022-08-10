@@ -30,7 +30,7 @@ While still in their infancy, DAOs can be categorized into six general types:
 
 ***Cause-based DAOs*** manage funds and initiatives meant to support specific causes. Cause-based DAOs are centered around achieving collective goals in areas such as philanthropy, politics, and public goods, similar to traditional organizations like charities, lobbying groups, and grant programs.
 
-***Social DAOs*** manage a shared social space, collectively own something of artistic value, and/or cultivate culture and events for their members. Social DAOs bring social communities together around entertainment, art, games, and other social aspects of life, similar to modern social clubs.
+***Social DAOs*** manage a shared social space, collectively own something of social or artistic value, and/or cultivate culture and events for their members. Social DAOs bring social communities together around religion, entertainment, art, games, and other social aspects of life, similar to modern social clubs.
 
 ***Data DAOs*** develop and manage data under the control of the DAO. Data DAOs are designed around pooling users’ data or developing unique data products in order to sell it to third parties who want to use it, such as to create AI algorithms or market research.
 
