@@ -35,3 +35,4 @@ While still in their infancy, DAOs can be categorized into six general types:
 ***Data DAOs*** develop and manage data under the control of the DAO. Data DAOs are designed around pooling users’ data or developing unique data products in order to sell it to third parties who want to use it, such as to create AI algorithms or market research.
 
 ***Algorithmic Entities or Network states.***
+Network States are DAO-like structures used to create new legally recognized societies. [How to Start your own Country](https://thenetworkstate.com/)
