@@ -23,16 +23,16 @@ It should be noted that while the word “autonomous” is part of the term DAO,
 
 While still in their infancy, DAOs can be categorized into six general types:
 
-***Protocol DAOs*** support the development and management of decentralized applications (dApps) or the infrastructure used by dApps. Protocol DAOs are largely concerned with stewarding open-source technology, similar to a company or foundation.
+- ***Protocol DAOs*** support the development and management of decentralized applications (dApps) or the infrastructure used by dApps. Protocol DAOs are largely concerned with stewarding open-source technology, similar to a company or foundation.
 
 
-***Investment DAOs*** make and manage investments using funds located in a treasury under the DAO’s control. Investment DAOs are predominately focused on generating profits for their members, similar to private equity funds or hedge funds.
+- ***Investment DAOs*** make and manage investments using funds located in a treasury under the DAO’s control. Investment DAOs are predominately focused on generating profits for their members, similar to private equity funds or hedge funds.
 
-***Cause-based DAOs*** manage funds and initiatives meant to support specific causes. Cause-based DAOs are centered around achieving collective goals in areas such as philanthropy, politics, and public goods, similar to traditional organizations like charities, lobbying groups, and grant programs.
+- ***Cause-based DAOs*** manage funds and initiatives meant to support specific causes. Cause-based DAOs are centered around achieving collective goals in areas such as philanthropy, politics, and public goods, similar to traditional organizations like charities, lobbying groups, and grant programs.
 
-***Social DAOs*** manage a shared social space, collectively own something of social or artistic value, and/or cultivate culture and events for their members. Social DAOs bring social communities together around religion, entertainment, art, games, and other social aspects of life, similar to modern social clubs.
+- ***Social DAOs*** manage a shared social space, collectively own something of social or artistic value, and/or cultivate culture and events for their members. Social DAOs bring social communities together around religion, entertainment, art, games, and other social aspects of life, similar to modern social clubs.
 
-***Data DAOs*** develop and manage data under the control of the DAO. Data DAOs are designed around pooling users’ data or developing unique data products in order to sell it to third parties who want to use it, such as to create AI algorithms or market research.
+- ***Data DAOs*** develop and manage data under the control of the DAO. Data DAOs are designed around pooling users’ data or developing unique data products in order to sell it to third parties who want to use it, such as to create AI algorithms or market research.
 
-***Algorithmic Entities or Network states.***
+- ***Algorithmic Entities or Network states.***
 Network States are DAO-like structures used to create new legally recognized societies. [How to Start your own Country](https://thenetworkstate.com/)
